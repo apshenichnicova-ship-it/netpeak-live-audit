@@ -1,0 +1,7 @@
+{
+  "name": "Netpeak Retention Audit Landing",
+  "description": "Live-діагностика Retention-маркетингу: експертний розбір точок входу в ретеншн від Netpeak для C-level та E-commerce бізнесу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
